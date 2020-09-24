@@ -1,0 +1,14 @@
+img {
+    height: 360px;
+    margin: 20px;
+    align-content: center;
+}
+
+body {
+    background-color: teal;
+    font-family: comfortaa, sans-serif;   
+}
+
+h1 {
+    color: white;
+}
